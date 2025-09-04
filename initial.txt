@@ -1,2 +1,1 @@
 test new file created locally
-Added a bug again
